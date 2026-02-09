@@ -1,0 +1,18 @@
+total 6
+-rw-r--r-- 1 DELL 197609  0 Feb  9 09:14 cse
+-rw-r--r-- 1 DELL 197609  0 Feb  9 09:14 ise
+-rw-r--r-- 1 DELL 197609  0 Feb  9 09:14 aiml
+-rw-r--r-- 1 DELL 197609  0 Feb  9 09:14 ai
+-rw-r--r-- 1 DELL 197609  0 Feb  9 09:14 ds
+-rw-r--r-- 1 DELL 197609  0 Feb  9 09:14 ece
+-rw-r--r-- 1 DELL 197609  0 Feb  9 09:14 eee
+-rw-r--r-- 1 DELL 197609  0 Feb  9 09:14 eie
+-rw-r--r-- 1 DELL 197609  0 Feb  9 09:14 iem
+-rw-r--r-- 1 DELL 197609  0 Feb  9 09:14 civil
+-rw-r--r-- 1 DELL 197609  0 Feb  9 09:14 mech
+drwxr-xr-x 1 DELL 197609  0 Feb  9 09:14 itbranch
+drwxr-xr-x 1 DELL 197609  0 Feb  9 09:14 circuitbranch
+drwxr-xr-x 1 DELL 197609  0 Feb  9 09:14 others
+-rw-r--r-- 1 DELL 197609 16 Feb  9 09:15 students
+-rwxr-xr-x 1 DELL 197609 33 Feb  9 09:16 golisting.sh
+-rw-r--r-- 1 DELL 197609  0 Feb  9 09:17 golisting
